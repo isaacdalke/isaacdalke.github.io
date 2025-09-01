@@ -6,4 +6,4 @@ I have published a number of papers on parole boards and have more projects unde
 
 I am also currently at work on a paper that probe justifications for police violence (with [Sandra Smith](https://www.hks.harvard.edu/faculty/sandra-susan-smith) and [Jaqueline Lepe](https://sociology.berkeley.edu/graduate-student/jaqueline-lepe)), and one that asks about the relationship between conceptions of community and the nonprofit form.
 
-If you are interested in my CV, you can find it [here]. If you'd like to get in touch, please send me an email at idalke@fas.harvard.edu. 
+If you are interested in my CV, you can find it [here]. If you'd like to get in touch, please send me an email: idalke -at- fas.harvard.edu. 
