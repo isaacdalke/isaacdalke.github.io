@@ -1,4 +1,4 @@
-<img src="https://github.com/isaacdalke/isaacdalke.github.io/blob/main/head%20shot%203%20reduced.jpg" alt="Photo of Isaac" width = "250" align = "right" style="border-radius:8; opacity:.9;"/>
+<img src="https://github.com/isaacdalke/isaacdalke.github.io/blob/main/head%20shot%203%20reduced.jpg" alt="Photo of Isaac" width = "200" align = "right"/>
 
 Thanks for visiting! My name is Isaac Dalke I am a data justice post-doctoral fellow at the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University, working with the [Complexity and Society Lab](https://brennanklein.com/and-lab) and the [Institute for Policing, Incarceration, and Public Safety](https://hutchinscenter.fas.harvard.edu/policing-incarceration-and-public-safety) at Harvard University to expand available national data sources on the criminal legal system and approach existing data in creative ways. I am also a visiting fellow at the [Harvard Department of Sociology](https://sociology.fas.harvard.edu/). I recieved my PhD in Sociology from [the University of California, Berkeley](https://sociology.berkeley.edu/) in the summer of 2025.
 
