@@ -1,3 +1,16 @@
+<head>
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YX670GG9QD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YX670GG9QD');
+</script>
+</head>
+
 # ISAAC DALKE
 
 <img src="head%20shot%203%20rounded.jpg" class="img-responsive" alt="Photo of Isaac" width = "250" align = "right"/>
