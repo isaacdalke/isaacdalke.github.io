@@ -1,4 +1,9 @@
+<img src="https://github.com/isaacdalke/isaacdalke.github.io/blob/main/head%20shot%203%20reduced.jpg" alt="Photo of Isaac" width="250" align = "right" border-radius = 200px opacity = .4/>
+
 Thanks for visiting! My name is Isaac Dalke I am a data justice post-doctoral fellow at the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University, working with the [Complexity and Society Lab](https://brennanklein.com/and-lab) and the [Institute for Policing, Incarceration, and Public Safety](https://hutchinscenter.fas.harvard.edu/policing-incarceration-and-public-safety) at Harvard University to expand available national data sources on the criminal legal system and approach existing data in creative ways. I am also a visiting fellow at the [Harvard Department of Sociology](https://sociology.fas.harvard.edu/). I recieved my PhD in Sociology from [the University of California, Berkeley](https://sociology.berkeley.edu/) in the summer of 2025.
+
+
+
 
 My research investigates the challenges of criminal justice reform, the interrelations of state and street violence, the gears of administrative decision-making, and the role of nonprofits in contemporary American political life. I blend traditional qualitative methods, such as interviewing, ethnography, and archival work with emerging computational approaches to text-as-data. These various strands merge in my dissertation research and current book project, where I investigate attempts to cultivate community-based violence prevention efforts in California over the last several decades.
 
@@ -6,4 +11,4 @@ I have published a number of papers on parole boards, with more on the way. Some
 
 I am also currently at work on a paper that probes justifications for police violence (with [Sandra Smith](https://www.hks.harvard.edu/faculty/sandra-susan-smith) and [Jaqueline Lepe](https://sociology.berkeley.edu/graduate-student/jaqueline-lepe)), and one that asks about the relationship between conceptions of community and the nonprofit as a legal and organizational form.
 
-If you are interested in my CV, you can find it <a href="https://github.com/isaacdalke/isaacdalke.github.io/blob/main/Dalke%20CV%2025.08.20.pdf" target="_blank">here</a>. If you'd like to get in touch, please send me an email: idalke -at- fas.harvard.edu. 
+If you are interested in my CV, you can find it <a href="https://github.com/isaacdalke/isaacdalke.github.io/blob/main/Dalke%20CV%2025.08.20.pdf?raw=true" target="_blank">here</a>. If you'd like to get in touch, please send me an email: idalke -at- fas.harvard.edu. 
