@@ -6,4 +6,4 @@ I have published a number of papers on parole boards, with more on the way. Some
 
 I am also currently at work on a paper that probes justifications for police violence (with [Sandra Smith](https://www.hks.harvard.edu/faculty/sandra-susan-smith) and [Jaqueline Lepe](https://sociology.berkeley.edu/graduate-student/jaqueline-lepe)), and one that asks about the relationship between conceptions of community and the nonprofit as a legal and organizational form.
 
-If you are interested in my CV, you can find it [here](https://github.com/isaacdalke/isaacdalke.github.io/blob/main/Dalke%20CV%2025.08.20.pdf). If you'd like to get in touch, please send me an email: idalke -at- fas.harvard.edu. 
+If you are interested in my CV, you can find it <a href="https://github.com/isaacdalke/isaacdalke.github.io/blob/main/Dalke%20CV%2025.08.20.pdf" target="_blank">here</a>. If you'd like to get in touch, please send me an email: idalke -at- fas.harvard.edu. 
