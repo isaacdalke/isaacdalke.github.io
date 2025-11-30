@@ -11,7 +11,7 @@
 </script>
 </head>
 
-# ISAAC DALKE
+# isaac dalke
 
 <img src="head%20shot%203%20rounded.jpg" class="img-responsive" alt="Photo of Isaac" width = "250" align = "right"/>
 
