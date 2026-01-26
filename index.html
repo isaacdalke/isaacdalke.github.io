@@ -30,7 +30,7 @@
         
         img {
             border: 2px solid black;
-            border-radius: 40px;
+            border-radius: 50px;
             max-width: 250px;
             height: auto;
             float: right;
@@ -48,6 +48,15 @@
         
         p {
             margin: 1em 0;
+        }
+        
+        @media (max-width: 600px) {
+            img {
+                float: none;
+                display: block;
+                margin: 20px auto;
+                max-width: 80%;
+            }
         }
     </style>
 </head>
